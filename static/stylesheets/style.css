@@ -1,0 +1,29 @@
+body {
+	background-image: url(/static/images/new.png); 
+    background-size: cover;
+	color:white;
+	text-align: center;
+	padding-top:5px;
+}
+
+h1 {
+	padding-top:150px;
+	/**color:white;**/color:black;
+	text-align:center;
+	font-size: 50px;
+}
+
+p1{
+	font-size:20px;
+	/** color: black **/ color:aliceblue
+}
+
+/**span {**/
+	/**background-color: white;**/ 
+ 
+
+form {
+	padding-top:50px;
+	width:100%;
+}
+
